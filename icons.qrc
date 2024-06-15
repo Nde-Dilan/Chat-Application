@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource>
+	<file>icons/ictu.jpeg</file>
+<file>icons/ictu-black.jpeg</file>
+	<file>icons/user.png</file>
+	<file>icons/group.png</file>
+   </qresource>
+
+</RCC>
